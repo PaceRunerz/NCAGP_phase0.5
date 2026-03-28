@@ -1,4 +1,4 @@
-/// <reference types="next" /> gdg
+/// <reference types="next" /> gd
 /// <reference types="next/image-types/global" />
 
 // NOTE: This file should not be edited
