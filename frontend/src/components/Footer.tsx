@@ -1,5 +1,5 @@
 'use client';
-import { useState, useEffect } from 'react';  fgr
+import { useState, useEffect } from 'react';  fg
 import { Shield, Lock, Globe, Phone, Mail, ExternalLink, Activity, BookOpen, AlertTriangle, Server } from 'lucide-react';
 
 export function Footer() {
