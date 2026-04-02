@@ -1,7 +1,7 @@
 'use client';
 import { useState, useEffect } from 'react';
 import { Shield, Lock, Globe, Phone, Mail, ExternalLink, Activity, BookOpen, AlertTriangle, Server } from 'lucide-react';
-
+fdb
 export function Footer() {
   const [time, setTime] = useState('');
   const [session, setSession] = useState(0);
