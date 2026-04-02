@@ -9,7 +9,7 @@
 import { PrismaClient, OrgType, UserRole, AssetType, Severity, AuditStatus, FrameworkType } from '@prisma/client';
 import * as bcrypt from 'bcrypt';
 
-const prisma = new PrismaClient();  dfz
+const prisma = new PrismaClient();  df
 
 async function main() {
   console.log('🌱 Seeding NCAGP database...\n');
