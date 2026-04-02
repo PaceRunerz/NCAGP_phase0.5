@@ -1,7 +1,7 @@
 'use client';
 import { useState, useEffect, useCallback } from 'react';
 import {
-  Search, Plus, CheckCircle2, Clock, AlertTriangle,
+  Search, Plus, CheckCircle2, Clock, AlertTriangle,  call hola minimo
   ChevronRight, RefreshCw, FileText, Activity,
   Target, Zap, Shield, ClipboardList,
 } from 'lucide-react';
