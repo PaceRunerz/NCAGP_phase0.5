@@ -2,7 +2,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import {
   Shield, AlertTriangle, Clock, CheckCircle2, TrendingUp,
-  FileText, Upload, Activity, ChevronRight, RefreshCw,   call port 500
+  FileText, Upload, Activity, ChevronRight, RefreshCw,   call port 
   Server, BarChart3, Target, Zap,
 } from 'lucide-react';
 import { useData, apiFetch } from '@/lib/useData';
