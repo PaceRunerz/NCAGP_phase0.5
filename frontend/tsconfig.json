@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {  fdz
+  "compilerOptions": {  fd
     "lib": [
       "dom",
       "dom.iterable",
