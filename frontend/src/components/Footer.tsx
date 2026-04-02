@@ -5,7 +5,7 @@ import { Shield, Lock, Globe, Phone, Mail, ExternalLink, Activity, BookOpen, Ale
 export function Footer() {
   const [time, setTime] = useState('');
   const [session, setSession] = useState(0);
-sdf
+s
   useEffect(() => {
     const start = Date.now();
     const tick = () => {
