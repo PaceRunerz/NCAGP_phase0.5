@@ -464,43 +464,6 @@ FRONTEND_URL="http://localhost:3001"
 
 ---
 
-## PRD Implementation Status
-
-### Completed ✅
-- 7-role RBAC with federation (NIC → Dept → Vendor)
-- Role-specific dashboards (4 different views)
-- Findings state machine (8 states + SLA auto-calculation)
-- Recurring finding detection (2-year lookback)
-- Immutable SHA-256 hash-chained audit ledger
-- Evidence immutability (no delete, only supersede)
-- National risk heatmap with weighted scoring
-- Asset register (CRUD + criticality)
-- Organisation hierarchy
-- Scanner API ingestion (Nessus/OpenVAS/SonarQube)
-- Scanner API key management
-- TOTP MFA (Google Authenticator / Authy)
-- Session revocation
-- Account lockout (5 attempts → 15 min)
-- PostgreSQL Row-Level Security
-- SLA email alerts (Gmail SMTP)
-- PDF risk report export
-- Immutable evidence + SHA-256 verification
-- Issue feedback widget
-
-### Partial ⚠️
-- Vendor scoring (schema done, nightly job not built)
-- Task/remediation workflow UI (schema done, no UI)
-- Control library (schema done, no seeded data)
-- Audit CRUD UI (schema done, no create/manage UI)
-
-### Phase 2 (requires data accumulation) 🔮
-- NLP query engine ("show all P1 findings in finance dept last 2 years")
-- Predictive risk AI (needs 1M+ findings + 3 years history)
-- Anomaly detection (fake evidence, vendor manipulation)
-- Control decay detection (MFA exists on paper but bypassed)
-
----
-
 ## License
 Made with ❤️ with PaceRunerz Alchemy
 For internal use only — not for public distribution.
