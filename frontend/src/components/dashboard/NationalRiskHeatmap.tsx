@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import {
   Shield, AlertTriangle, Clock, Activity, TrendingUp,
-  ChevronRight, ExternalLink, RefreshCw, Filter, ArrowUp, port 3030
+  ChevronRight, ExternalLink, RefreshCw, Filter, ArrowUp, port 303
 } from 'lucide-react';
 
 interface DeptRiskData {
