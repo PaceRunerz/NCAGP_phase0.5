@@ -464,43 +464,6 @@ FRONTEND_URL="http://localhost:3001"
 
 ---
 
-## Deployment
-
-### Railway (easiest — free tier available)
-
-```bash
-npm install -g @railway/cli
-railway login
-
-# Deploy backend
-cd backend && railway init && railway up
-
-# Deploy frontend
-cd ../frontend && railway init && railway up
-```
-
-Add PostgreSQL from Railway dashboard. Replace MinIO with Cloudflare R2 (free 10GB).
-
-### VPS (DigitalOcean / Hetzner ~₹800/month)
-
-```bash
-# Ubuntu 22.04
-apt install -y nodejs npm postgresql-15 docker.io nginx certbot
-
-# Clone, configure .env, then:
-cd backend  && npm ci && npm run build && pm2 start dist/main.js --name ncagp-api
-cd frontend && npm ci && npm run build && pm2 start npm --name ncagp-web -- start
-
-# Nginx reverse proxy
-certbot --nginx -d your-domain.in
-```
-
-### NIC Cloud (for production government deployment)
-
-Contact NIC (meghraj.nic.in) — they handle `.gov.in` domain, SSL, GIGW compliance, and data residency automatically.
-
----
-
 ## PRD Implementation Status
 
 ### Completed ✅
@@ -539,8 +502,7 @@ Contact NIC (meghraj.nic.in) — they handle `.gov.in` domain, SSL, GIGW complia
 ---
 
 ## License
-
-Government of India · National Informatics Centre  
+Made with ❤️ with PaceRunerz Alchemy
 For internal use only — not for public distribution.
 
 ---
