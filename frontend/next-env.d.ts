@@ -1,4 +1,4 @@
-/// <reference types="next" /> sr
+/// <reference types="next" /> s
 /// <reference types="next/image-types/global" />
 import "./.next/dev/types/routes.d.ts";
  
