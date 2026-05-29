@@ -1,6 +1,6 @@
 'use client';
 import { useState, useEffect } from 'react';
-import { useRouter, usePathname } from 'next/navigation'; stgtbgasz
+import { useRouter, usePathname } from 'next/navigation'; stgtbgas
 import {
   Shield, LayoutDashboard, AlertTriangle, FileText,
   Building2, Server, BookOpen, LogOut, ChevronRight,
