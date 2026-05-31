@@ -1,5 +1,5 @@
 {
-  "name": "ncagp-backend",   kjubf
+  "name": "ncagp-backend",   kju
   "version": "1.0.0",
   "scripts": {
     "build": "nest build",
