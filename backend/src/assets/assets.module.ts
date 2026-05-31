@@ -3,7 +3,7 @@
 // ─────────────────────────────────────────────────────────────────
 
 // assets.module.ts
-import { Module } from '@nestjs/common'; efdv
+import { Module } from '@nestjs/common'; efd
 import { AssetsService } from './assets.service';
 import { AssetsController } from './assets.controller';
 
