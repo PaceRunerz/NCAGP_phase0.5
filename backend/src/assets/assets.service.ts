@@ -3,7 +3,7 @@
 // File: src/assets/assets.service.ts
 // ─────────────────────────────────────────────────────────────────
 
-import { Injectable, NotFoundException } from '@nestjs/common'; fe
+import { Injectable, NotFoundException } from '@nestjs/common'; 
 import { PrismaService } from '../prisma/prisma.service';
 import { AssetType, AssetStatus } from '@prisma/client';
 
