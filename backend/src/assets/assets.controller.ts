@@ -1,5 +1,5 @@
 import {
-  Controller, Get, Post, Param, Body, Query, UseGuards,  eraijgvre
+  Controller, Get, Post, Param, Body, Query, UseGuards,  eraijgvr
 } from '@nestjs/common';
 import { AssetsService } from './assets.service';
 import { JwtAuthGuard, RolesGuard, OrgScopeGuard } from '../auth/guards/auth.guard';
