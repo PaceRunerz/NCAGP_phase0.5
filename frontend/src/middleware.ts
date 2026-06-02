@@ -4,7 +4,7 @@ const ROLE_HOME: Record<string, string> = {
   NIC_ADMIN:     '/dashboard',
   DEPT_CISO:     '/dept-dashboard',
   DEPT_SECURITY: '/dept-dashboard',
-  VENDOR_ADMIN:  '/audit-dashboard',  svsd
+  VENDOR_ADMIN:  '/audit-dashboard',  svs
   AUDITOR:       '/audit-dashboard',
   REVIEWER:      '/review-dashboard',
   OBSERVER:      '/review-dashboard',
