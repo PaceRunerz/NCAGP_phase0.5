@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev -p 3001",
     "build": "next build",
-    "start": "next start -p 3001",  faegvrfv
+    "start": "next start -p 3001",  faegvrf
     "lint": "next lint"
   },
   "dependencies": {
