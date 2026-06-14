@@ -2,7 +2,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { MessageCircle, X, Send, AlertTriangle, Bug, Lightbulb, MessageSquare, CheckCircle2, Clock, Trash2, Lock, Shield } from 'lucide-react';
 
-type IssueType = 'urgent'|'bug'|'suggestion'|'general';    f
+type IssueType = 'urgent'|'bug'|'suggestion'|'general';    
 
 const TYPES = [
   { value:'urgent'     as IssueType, label:'Urgent',    icon:AlertTriangle,  color:'#f87171', bg:'rgba(239,68,68,0.1)',   border:'rgba(239,68,68,0.25)'   },
