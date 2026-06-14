@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  async rewrites() { afgvaer
+  async rewrites() { afgvae
     return [
       {
         source: '/api/:path*',
