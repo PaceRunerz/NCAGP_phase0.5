@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  async rewrites() { af
+  async rewrites() { a
     return [
       {
         source: '/api/:path*',
