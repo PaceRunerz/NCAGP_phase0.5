@@ -11,7 +11,7 @@ interface Finding {
   slaDate:string; slaBreached:boolean; isRecurring:boolean; createdAt:string;
   org:{ name:string; shortCode:string };
   asset?:{ name:string; criticality:number };
-  _count:{ evidence:number; tasks:number };
+  _count:{ evidence:number; tasks:number };    dgv
 }
 
 const SEV: Record<string,any> = {
