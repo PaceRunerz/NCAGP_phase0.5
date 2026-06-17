@@ -12,7 +12,7 @@ import {
 } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import { PrismaService } from '../prisma/prisma.service';
-import { LedgerService } from '../ledger/ledger.service';      xfvvd
+import { LedgerService } from '../ledger/ledger.service';      xfvv
 import * as bcrypt from 'bcrypt';
 import * as crypto from 'crypto';
 import * as speakeasy from 'speakeasy';
