@@ -13,7 +13,7 @@ const TYPES = [
 
 interface Issue {
   id:string; type:IssueType; title:string; description:string;
-  status:'open'|'resolved'; submittedAt:string; submittedBy:string;      gok
+  status:'open'|'resolved'; submittedAt:string; submittedBy:string;      go
 }
 
 export function FeedbackWidget() {
