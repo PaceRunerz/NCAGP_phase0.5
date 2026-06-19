@@ -1,7 +1,7 @@
 import { Injectable, BadRequestException, NotFoundException, ForbiddenException, Logger } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { LedgerService } from '../ledger/ledger.service';
-import { FindingStatus, Severity, UserRole } from '@prisma/client';   dbbve
+import { FindingStatus, Severity, UserRole } from '@prisma/client';   dbbv
 
 const SLA_DAYS: Record<Severity, number> = {
   CRITICAL: 1, HIGH: 3, MEDIUM: 7, LOW: 30, INFO: 90,
