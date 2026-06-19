@@ -1,6 +1,6 @@
 'use client';
 import { useState, useEffect } from 'react';
-import { useRouter, usePathname } from 'next/navigation';   fdgb
+import { useRouter, usePathname } from 'next/navigation';   fdg
 import {
   Shield, LayoutDashboard, AlertTriangle, FileText,
   Building2, Server, BookOpen, LogOut, ChevronRight,
