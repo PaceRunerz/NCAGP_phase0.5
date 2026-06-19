@@ -4,7 +4,7 @@ import { Shield, Lock, Globe, Phone, Mail, ExternalLink, Activity, BookOpen, Ale
 
 export function Footer() {
   const [time, setTime] = useState('');
-  const [session, setSession] = useState(0); s
+  const [session, setSession] = useState(0); 
 
   useEffect(() => {
     const start = Date.now();
