@@ -15,7 +15,7 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
   }, [router]);
 
   // Don't show spinner — render immediately
-  // If no token the useEffect above redirects 
+  // If no token the useEffect above redirec
   return (
     <div style={{ display:'flex', minHeight:'100vh', position:'relative', zIndex:1 }}>
       <Sidebar />
