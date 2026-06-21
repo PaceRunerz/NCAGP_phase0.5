@@ -4,7 +4,7 @@ import { useRouter } from 'next/navigation';
 import { Sidebar } from '@/components/Sidebar';
 import { Footer } from '@/components/Footer';
  
-export default function AppShell({ children }: { children: React.ReactNode }) {         efw
+export default function AppShell({ children }: { children: React.ReactNode }) {         ef
   const router = useRouter();
 
   useEffect(() => {
