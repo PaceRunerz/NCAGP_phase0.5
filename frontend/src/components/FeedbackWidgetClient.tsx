@@ -5,5 +5,5 @@ const FeedbackWidget = dynamic(
   { ssr: false }
 );
 export default function FeedbackWidgetClient() {
-  return <FeedbackWidget />;  srvrv
+  return <FeedbackWidget />;  srvr
 }
