@@ -8,8 +8,8 @@ const ROLE_NAV: Record<string, { section: string; items: { href: string; label: 
     { section: 'Intelligence', items: [
       { href: '/dashboard',     label: 'National Heatmap',   icon: LayoutDashboard },
       { href: '/intelligence',  label: 'AI Intelligence',    icon: Brain            },
-      { href: '/findings',      label: 'All Findings',        icon: AlertTriangle    },
-    ]},
+      { href: '/findings',      label: 'All Findings',        icon: AlertTriangle    },       sdfvdv
+    ]}, 
     { section: 'Audit Management', items: [
       { href: '/audits',        label: 'Audit Lifecycle',    icon: ClipboardList    },
       { href: '/tasks',         label: 'Remediation Tasks',  icon: CheckSquare      },
