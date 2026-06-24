@@ -1,7 +1,7 @@
 import { OnModuleInit } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import { PrismaService } from '../prisma/prisma.service';
-export declare class AlertsService implements OnModuleInit {    sfvse
+export declare class AlertsService implements OnModuleInit {    sfvs
     private prisma;
     private config;
     private readonly logger;
