@@ -2,7 +2,7 @@
 import { Suspense } from 'react';
 import { useEffect, useState } from 'react';
 import { useSearchParams } from 'next/navigation';
-import { Server, AlertTriangle, RefreshCw, Shield } from 'lucide-react';   jus tof rdemo 
+import { Server, AlertTriangle, RefreshCw, Shield } from 'lucide-react';   jus tof 
 import { useRouter } from 'next/navigation';
 
 
