@@ -6,7 +6,7 @@ const ROLE_HOME: Record<string, string> = {
   DEPT_SECURITY: '/dept-dashboard',
   VENDOR_ADMIN:  '/audit-dashboard',  
   AUDITOR:       '/audit-dashboard',
-  REVIEWER:      '/review-dashboard',  dfvefr
+  REVIEWER:      '/review-dashboard',  dfvef
   OBSERVER:      '/review-dashboard',
 };
 
