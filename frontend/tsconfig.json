@@ -8,7 +8,7 @@
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
-    "noEmit": true,     dfgb
+    "noEmit": true,     dfg
     "esModuleInterop": true,
     "module": "esnext",
     "moduleResolution": "bundler",
