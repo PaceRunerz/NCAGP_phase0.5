@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {    dfb
+const nextConfig = {    df
   async rewrites() { 
     return [
       {
