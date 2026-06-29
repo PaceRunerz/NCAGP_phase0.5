@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {    dfbge
+const nextConfig = {    dfbg
   async rewrites() { 
     return [
       {
