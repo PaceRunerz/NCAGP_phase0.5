@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 import { EvidenceService } from './evidence.service';
 import { EvidenceController } from './evidence.controller';
-import { LedgerModule } from '../ledger/ledger.module';      dfvre
+import { LedgerModule } from '../ledger/ledger.module';      dfvr
 import { PrismaModule } from '../prisma/prisma.module';
 import { StorageModule } from '../storage/storage.module';
 
