@@ -7,7 +7,7 @@ import {
 } from 'lucide-react';
 
 interface DeptRiskData {
-  orgId: string; orgName: string; shortCode: string;     sd
+  orgId: string; orgName: string; shortCode: string;     s
   criticalCount: number; highCount: number; mediumCount: number;
   lowCount: number; openCount: number; slaBreachedCount: number;
   riskScore: number;
