@@ -4,7 +4,7 @@ import {
 import { AssetsService } from './assets.service';
 import { JwtAuthGuard, RolesGuard, OrgScopeGuard } from '../auth/guards/auth.guard';
 import { Roles, CurrentUser } from '../auth/roles.decorator';
-import { AssetType } from '@prisma/client';    w
+import { AssetType } from '@prisma/client';    
 import {
   IsString, IsEnum, IsOptional, IsUUID, IsInt, Min, Max, IsArray,
 } from 'class-validator';
