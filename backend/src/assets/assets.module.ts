@@ -6,7 +6,7 @@
 import { Module } from '@nestjs/common'; 
 import { AssetsService } from './assets.service';
 import { AssetsController } from './assets.controller';   
- daq
+ da
 @Module({
   providers: [AssetsService],
   controllers: [AssetsController],
