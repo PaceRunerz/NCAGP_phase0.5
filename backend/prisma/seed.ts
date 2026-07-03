@@ -3,7 +3,7 @@
 // File: prisma/seed.ts
 //
 // Creates initial NIC org, admin user, and sample dept orgs.
-// Run: npx ts-nod
+// Run: npx t
 // ─────────────────────────────────────────────────────────────────
 
 import { PrismaClient, OrgType, UserRole, AssetType, Severity, AuditStatus, FrameworkType } from '@prisma/client';
