@@ -5,7 +5,7 @@ import {
 import { Reflector } from '@nestjs/core';
 import { AuthGuard } from '@nestjs/passport';
 import { UserRole } from '@prisma/client';
-import { ROLES_KEY } from '../roles.decorator';     dfbvre
+import { ROLES_KEY } from '../roles.decorator';     dfbvr
 
 // ── JWT Guard ──────────────────────────────────────────────────
 @Injectable()
