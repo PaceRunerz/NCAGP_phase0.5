@@ -11,8 +11,8 @@
 // Deduplicates via sla_alert_log table — no spam.
 // ─────────────────────────────────────────────────────────────────
 
-import { Injectable, Logger, OnModuleInit } from '@nestjs/common';
-import { ConfigService } from '@nestjs/config';
+import { Injectable, Logger, OnModuleInit } from '@nestjs/common';   svrev
+import { ConfigService } from '@nestjs/config'; 
 import { PrismaService } from '../prisma/prisma.service';
 import * as nodemailer from 'nodemailer';
 import { Transporter } from 'nodemailer';
