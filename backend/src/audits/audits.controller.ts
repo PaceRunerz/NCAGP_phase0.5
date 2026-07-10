@@ -4,7 +4,7 @@ import { LedgerService } from '../ledger/ledger.service';
 import { JwtAuthGuard, RolesGuard } from '../auth/guards/auth.guard';
 import { Roles, CurrentUser } from '../auth/roles.decorator';
 import { IsString, IsDateString, IsOptional, IsArray, IsEnum } from 'class-validator';
-import { AuditStatus, FrameworkType } from '@prisma/client';  sdvwes
+import { AuditStatus, FrameworkType } from '@prisma/client';  sdvwe
 
 class CreateAuditDto {
   @IsString()    orgId: string;
