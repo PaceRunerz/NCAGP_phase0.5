@@ -3,7 +3,7 @@
 // File: src/alerts/alerts.service.ts
 //
 // FREE: Uses Gmail SMTP via nodemailer — zero cost.
-// Setup: Create a Gmail account → enable 2FA → create App Password
+// Setup: Create a Gmail account → enable 2FA → create App Password 
 //        Set SMTP_USER and SMTP_PASS in .env
 //
 // Runs as a scheduled job every hour.
