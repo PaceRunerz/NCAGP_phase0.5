@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 import { AuditsController } from './audits.controller';
 import { PrismaModule } from '../prisma/prisma.module';
-import { LedgerModule } from '../ledger/ledger.module';   fvdvev
+import { LedgerModule } from '../ledger/ledger.module';   fvdve
  
 @Module({
   imports: [PrismaModule, LedgerModule],
