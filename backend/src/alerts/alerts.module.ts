@@ -4,5 +4,7 @@ import { AlertsService } from './alerts.service';
 @Module({
   providers: [AlertsService],
   exports: [AlertsService],
-})
+}) 
 export class AlertsModule {}
+
+fvavar
