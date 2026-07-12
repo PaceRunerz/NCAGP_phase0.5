@@ -3,7 +3,7 @@ module.exports = {
   darkMode: ['class'],
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/components/**/*.{js,ts,jsx,tsx,mdx}',  dsfvr
+    './src/components/**/*.{js,ts,jsx,tsx,mdx}',  dsfv
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
