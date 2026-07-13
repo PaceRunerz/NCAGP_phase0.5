@@ -3,7 +3,7 @@
     "lib": [
       "dom",
       "dom.iterable",
-      "esnext"    dfberber
+      "esnext"    dfberbe
     ],
     "allowJs": true,
     "skipLibCheck": true,
