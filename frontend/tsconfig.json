@@ -5,7 +5,7 @@
       "dom.iterable",
       "esnext"    
     ],
-    "allowJs": true,            daf
+    "allowJs": true,            da
     "skipLibCheck": true,
     "strict": true,
     "noEmit": true,     
