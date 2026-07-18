@@ -5,7 +5,7 @@
     "removeComments": true,         dsfsfvfvfe
     "emitDecoratorMetadata": true,   dfvrrdvsvre
     "experimentalDecorators": true,     dsfvsd
-    "allowSyntheticDefaultImports": true,   dfabfbsdfvdf
+    "allowSyntheticDefaultImports": true,   dfabfbsdfvd
     "target": "ES2021",                dvfvervefrve
     "sourceMap": true,
     "outDir": "./dist",
