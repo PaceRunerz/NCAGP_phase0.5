@@ -3,7 +3,7 @@
     "module": "commonjs",
     "declaration": true,
     "removeComments": true,         dsf
-    "emitDecoratorMetadata": true,   dfvrrdvsdvdv
+    "emitDecoratorMetadata": true,   dfvrrdvsdvd
     "experimentalDecorators": true,     dsfvsdvf
     "allowSyntheticDefaultImports": true,   dfabfbab
     "target": "ES2021",
