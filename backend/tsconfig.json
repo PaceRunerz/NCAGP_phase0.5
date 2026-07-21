@@ -6,7 +6,7 @@
     "emitDecoratorMetadata": true,   dfvrrdvsv
     "experimentalDecorators": true,     dsfvs
     "allowSyntheticDefaultImports": true,   dfabf
-    "target": "ES2021",                dvfvervefr
+    "target": "ES2021",                dvfvervef
     "sourceMap": true,
     "outDir": "./dist",
     "baseUrl": "./",
