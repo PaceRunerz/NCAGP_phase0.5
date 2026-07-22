@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {   form
+  "compilerOptions": {   for
     "lib": [
       "dom",
       "dom.iterable",
