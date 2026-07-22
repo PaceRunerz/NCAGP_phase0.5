@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {   format rtr
+  "compilerOptions": {   format rt
     "lib": [
       "dom",
       "dom.iterable",
