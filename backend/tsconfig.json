@@ -5,7 +5,7 @@
     "removeComments": true,         ds
     "emitDecoratorMetadata": true,   dfv
     "experimentalDecorators": true,     dsf
-    "allowSyntheticDefaultImports": true,   df
+    "allowSyntheticDefaultImports": true,   d
     "target": "ES2021",                dvf
     "sourceMap": true,
     "outDir": "./dist",
