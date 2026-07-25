@@ -4,7 +4,7 @@
     "declaration": true,
     "removeComments": true,         dsfs
     "emitDecoratorMetadata": true,   dfvrr
-    "experimentalDecorators": true,     dsfv
+    "experimentalDecorators": true,     dsf
     "allowSyntheticDefaultImports": true,   df
     "target": "ES2021",                dvfve
     "sourceMap": true,
