@@ -3,7 +3,7 @@ module.exports = {
   darkMode: ['class'],
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/components/**/*.{js,ts,jsx,tsx,mdx}',      dbrtbrtbb
+    './src/components/**/*.{js,ts,jsx,tsx,mdx}',      dbrtbrtb
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
