@@ -6,7 +6,7 @@
       "esnext"    
     ],
     "allowJs": true,            
-    "skipLibCheck": true,     revergvr
+    "skipLibCheck": true,     revergv
     "strict": true,
     "noEmit": true,     
     "esModuleInterop": true,
