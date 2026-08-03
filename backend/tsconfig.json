@@ -2,7 +2,7 @@
   "compilerOptions": {
     "module": "commonjs",
     "declaration": true,
-    "removeComments": true,         dsewef
+    "removeComments": true,         dsewe
     "emitDecoratorMetadata": true,   dfewev
     "experimentalDecorators": true,     dsfe
     "allowSyntheticDefaultImports": true,   de
